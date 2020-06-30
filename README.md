@@ -18,6 +18,9 @@ https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-cont
 Github - 
 https://github.com/futureautomate/python-plays-gta-5-part-1
 
+Hexcode list - 
+http://www.gamespp.com/directx/directInputKeyboardScanCodes.html
+
 ## -----------------------------------------Let's Get Connected----------------------------------------
 
 Instagram -  futureautomate
